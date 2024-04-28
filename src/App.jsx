@@ -2,7 +2,6 @@ import { Route, Routes, BrowserRouter, Navigate } from "react-router-dom";
 import "./App.css";
 import HomePage from "./pages/HomePage";
 import MyForm from "./pages/MyForm";
-import StartChat from "./pages/startChat";
 import ClassUser from "./pages/fakeDone";
 import AuthCode from "./pages/authCode";
 import AdminPage from "./pages/admin";
